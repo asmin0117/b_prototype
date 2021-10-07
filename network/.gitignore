@@ -1,0 +1,5 @@
+.env
+crypto-config.yaml
+/config
+/crypto-config
+.vim_rc
